@@ -2,4 +2,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Apoorv Agarwal](http://http://apoorvagarwal.yolasite.com/)
+by [Apoorv Agarwal](http://apoorvagarwal.yolasite.com/)
